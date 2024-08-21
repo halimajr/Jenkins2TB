@@ -20,13 +20,13 @@
   "forcedImport": {
     "libraries": [],
     "resources": [
-      "C:\\Imbus-AG\\Jenkins Export Example\\Jenkins2TB\\Resources\\TestKeywords.resource"
+            "Resources/import.resource"
     ],
     "variables": []
   },
   "generationDirectory": "{root}/Generated",
   "createOutputZip": false,
-  "resourceDirectory": "{root}/Resources",
+  "resourceDirectory": "{root}/",
   "logSuiteNumbering": false,
   "clearGenerationDirectory": true,
   "loggingConfiguration": {
