@@ -1,0 +1,2 @@
+*** Settings ***
+Resource    TestKeywords.resource
