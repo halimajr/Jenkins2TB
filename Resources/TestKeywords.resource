@@ -6,5 +6,5 @@ Library    SeleniumLibrary
 *** Keywords ***
 Open Test System
     [Documentation]    Test Keyword 
-    Open Browser    www.google.com    headlesschrome
+    Open Browser    www.google.com    edge
     Maximize Browser Window
